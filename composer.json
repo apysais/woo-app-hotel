@@ -1,0 +1,8 @@
+{
+    "require": {
+        "htmlburger/carbon-fields": "^3.1",
+        "nesbot/carbon": "^2.33",
+        "pusher/pusher-php-server": "^4.1",
+        "symfony/translation": "^5.1"
+    }
+}

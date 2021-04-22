@@ -1,0 +1,72 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+.bootstrap-iso{
+  font-size: 1rem;
+}
+
+.btn-edit{
+  background-color: #ff0047 !important;
+  color:#fff !important;
+}
+#wp-admin-bar-wpseo-menu{
+  display: none;
+}
+#done-orders .row {
+  padding: 10px;
+}
+#search-orders .row{
+  padding: 10px;
+}
+.collpase-order {
+  padding: 10px 0;
+}
+.order-list-details{
+  padding:0 !important;
+}
+/*orders delivery pickup*/
+.wa-delivery-list-orders .row {
+  padding: 10px 0;
+}
+.wa-delivery-list-orders  p {
+  margin:0px;
+  padding:0px;
+}
+.wa-delivery-list-orders .row {
+}
+.wa-delivery-list-orders .collapse  {
+}
+/*orders delivery pickup*/
+.wa-dashboard-list-orders .row {
+  padding: 10px 0;
+}
+.wa-dashboard-list-orders  p {
+  margin:0px;
+  padding:0px;
+}
+.wa-dashboard-list-orders .row {
+}
+.wa-dashboard-list-orders .collapse  {
+}
+.row-list-actions {
+  margin-top: 10px;
+}
+.local-pickup-finish-order .btn{
+  background-color: red;
+    border-color: red;
+}
+.local-pickup-finish-order .btn:hover{
+  background-color: red;
+    border-color: red;
+}
+.log-status-container ul li p {
+  padding:0 !important;
+  margin:0 !important;
+}
+
+@media print {
+  ul {
+    list-style-type:none;
+  }
+}
